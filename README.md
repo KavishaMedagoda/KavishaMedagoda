@@ -3,8 +3,7 @@
 🎓 Software Engineering Graduate  
 💻 Trainee QA Engineer  
 🧪 Experienced in Manual Testing & API Testing  
-🌱 Currently learning Test Automation  
-🤖 Building AI-powered applications with NLP & Sentiment Analysis  
+🌱 Currently learning Test Automation   
 
 ---
 
